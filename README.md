@@ -3,9 +3,11 @@
 
 - 🔭 I’m currently working on **DevOps & Cloud**
 
-- 🌱 I’m currently learning **New Challenging Role**
+- 🌱 I’m currently looking for **New Challenging Role**
 
 - 👯 I’m looking to collaborate on **Open Source**
+
+- 🤝 I am certified in **AWS,Docker,EKS,Terraform,Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vinayyenaganti](https://github.com/vinayyenaganti)
 
